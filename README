@@ -1,0 +1,1 @@
+En el presente archivo  tenemos dos codigos , para poder establecer una comunciacion entre dos maquina, utilizando el formato de cliente y sercidor .Lo unico que se debe de cambiar en el codigo es el ip del servidor en cliente para que se puedan comunicar
